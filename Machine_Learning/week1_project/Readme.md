@@ -13,7 +13,7 @@ Note that the authors prohibit resharing the dataset, we have a simple summary. 
 
 # your task
 
-You will practice your data cleaning skills on the main data (not the summarized version) by perfoming the following tasks: 
+In this project I will practice data cleaning skills on the main data (not the summarized version) by perfoming the following tasks: 
 1. Explore the missingness in the dataset for categorical and numerical data
 2. Develop a strategy to deal with the missing values, i.e deletion, imputation by mean or mode etc, whilst providing rationale for your approach.
 3. Drop non-consequntial fields
@@ -31,17 +31,11 @@ You will practice your data cleaning skills on the main data (not the summarized
 6. Calculate and visualized the correlation among the features
 7. Perfom the correct encoding for your data, in readiness for modelling. 
 
-# bonus task 
+# Bonus Excercise I will undertake  
 
-Since it is your first week of ML, it is okay if you do not proceed to this section, however, if you feel adventureous, you can explore a classification model to predict whether a product is a GPU or a CPU based on the other independent variables. 
+Since it is my first week of ML, I do feel adventureous so I will explore the classification model to predict whether a product is a GPU or a CPU based on the other independent variables. 
 - Compare the perfomance of a Random Forest Classifier with that of a Logistic Regression Model
 
-
-# data dictionary
-
-|Table Column 1|Table Column 2 |
-|--------------|---------------|
-| Observation 1,1 | Observation 1,2|
 
 
 # `semiconductor-chips.csv`
